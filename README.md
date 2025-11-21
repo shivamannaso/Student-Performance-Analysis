@@ -1,4 +1,5 @@
-# 📚 IDS Mini-Project: Student Performance Analysis
+# 📚 Student Performance Analysis Project
+
 
 ## Overview
 
@@ -53,4 +54,5 @@ Both models demonstrated strong predictive power for the final grade (G3).
 | `StudentP (1).ipynb` | The executable analysis code (Jupyter Notebook) |
 | `student.csv` | The raw student performance dataset |
 | `IDS_PPT.pptx` | The final project presentation slides |
+
 | `README.md` | This project summary |
